@@ -2,7 +2,7 @@ import React from 'react'
 
 const Banner7 = () => {
   return (
-    <div className='banner7 text-center'>
+    <div className='banner7 '>
       <h1>​Why Choose Yatri Car Rental?</h1>
       <ul >
         <li>Yatri Car Rental has been a trusted digital platform for booking local and outstation car rental and taxi services since 2014. Our primary goal is to offer our clients an exceptional car rental and cab booking experience, and we take great pride in our commitment to safety, reliability, and experienced drivers. These qualities are evident across all our car rental services, making us the preferred choice for those seeking rental cars and taxi services in INDIA</li>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Local = ({handleTypeChange}) => {
   return (
-    <div className='Outstation_card'>
+    <div className='Local-card'>
     <div className='btn1_card'>
         <button onClick={() => handleTypeChange('Outstation')}>Outstation</button>
         <button onClick={() => handleTypeChange('Local')}>Local</button>
